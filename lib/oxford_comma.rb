@@ -1,3 +1,7 @@
 def oxford_comma(array)
-"hippo,giraffe,monkey,horse".split(",")
+"kiwi".split(",")
+end
+
+def oxford_comma(array, element)
+  
 end
