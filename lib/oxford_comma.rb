@@ -1,5 +1,5 @@
-def oxford_comma
-"kiwi".split(",")
+def oxford_comma(array)
+array.split(",")
 end
 
 def oxford_comma(array)
